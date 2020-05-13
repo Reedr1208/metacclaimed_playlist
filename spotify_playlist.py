@@ -10,10 +10,6 @@ import time
 #playlist-read-priva
 #playlist-modify-public
 
-#get new auth code
-#https://accounts.spotify.com/en/authorize?client_id=ad7db8a311f246c982f7fb36df2b58a3&response_type=code&redirect_uri=http:%2F%2Fwww.google.com&scope=playlist-modify-private+playlist-modify-public+playlist-read-private
-
-
 def get_token_for_new_code(client_id, client_secret, redirect_uri, code):
 	payload= {'client_id':client_id, 'client_secret':client_secret, 'grant_type':'authorization_code', 'redirect_uri':redirect_uri, 'code':code}
 	response=requests.post('https://accounts.spotify.com/api/token', data=payload)
