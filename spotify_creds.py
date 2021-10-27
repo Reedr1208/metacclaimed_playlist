@@ -1,4 +1,5 @@
-refresh_token='AQCoqm3lc_SfWew23BiLAGF6kcqEBNLhV2_-ntxferPd25kDmkIzFJIUMJ-0Q439gBaSqWTcW4pnXRxTtEvXSesy1nThucmPdcbr5jaZRqV8I9qfkYRtS76qmrcb07PmLU4'
-client_id='ad7db8a311f246c982f7fb36df2b58a3'
-client_secret='bd456e44aad64ed0a2d18bd8670559b5'
-user_id=12140396560
+#removed for security purposes
+refresh_token=''
+client_id=''
+client_secret=''
+user_id=0
