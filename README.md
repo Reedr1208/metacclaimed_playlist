@@ -8,9 +8,9 @@ Since Metacritic did not have a publicly available API, I had to scrape HTML dat
 
 <b>main_build_playlist.py</b>- Main function which orchestrates the whole process
 
-<b>metacritic_scrape.py</b>-
+<b>metacritic_scrape.py</b>- Script for scraping albums, artists, dates, and scores from Metacritic HTML
 
-<b>spotify_playlist.py</b>-
+<b>spotify_playlist.py</b>- Build Playlists with the Spotify API
 
 <b>meta0.html, meta1.html</b>- Saved Metacritic HTML for reference
 
