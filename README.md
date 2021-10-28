@@ -15,3 +15,5 @@ Since Metacritic did not have a publicly available API, I had to scrape HTML dat
 <b>meta0.html, meta1.html</b>- Saved Metacritic HTML for reference
 
 <b>recent_albums_Apr_20.csv, recent_albums_May_20.csv</b>- Saved csvs containing results of scraped metacritic data
+
+See full projects on my [personal webpage](https://raymondreed.co/projects/automated-playlist-creation/).
